@@ -1,0 +1,15 @@
+D:\Applications\StringReverser\bin\Debug\net7.0\StringReverser.exe
+D:\Applications\StringReverser\bin\Debug\net7.0\StringReverser.deps.json
+D:\Applications\StringReverser\bin\Debug\net7.0\StringReverser.runtimeconfig.json
+D:\Applications\StringReverser\bin\Debug\net7.0\StringReverser.dll
+D:\Applications\StringReverser\bin\Debug\net7.0\StringReverser.pdb
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.csproj.AssemblyReference.cache
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.AssemblyInfoInputs.cache
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.AssemblyInfo.cs
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.csproj.CoreCompileInputs.cache
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.dll
+D:\Applications\StringReverser\obj\Debug\net7.0\refint\StringReverser.dll
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.pdb
+D:\Applications\StringReverser\obj\Debug\net7.0\StringReverser.genruntimeconfig.cache
+D:\Applications\StringReverser\obj\Debug\net7.0\ref\StringReverser.dll
